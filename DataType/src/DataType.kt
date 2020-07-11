@@ -1,5 +1,3 @@
-package KotlinBase
-
 fun main() {
     var a = 0;
     println("a=" + a);
